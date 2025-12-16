@@ -1,0 +1,11 @@
+flask
+flask-cors
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+faiss-cpu
+rank_bm25
+pypdf
+tiktoken
